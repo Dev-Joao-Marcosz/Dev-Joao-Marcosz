@@ -1,5 +1,7 @@
 ## Olá! Meu nome é João Marcos, tenho 26 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou em constante aprendizado com foco em me tornar um desenvolvedor Full-Stack, preparado para atuar em todas as etapas de um projeto — do backend ao frontend. Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos reais e evoluir junto com a tecnologia.  👋
 
+ Olá! Meu nome é João Marcos, tenho 26 anos e sou estudante de Análise e Desenvolvimento de Sistemas. Estou em constante aprendizado com foco em me tornar um desenvolvedor Full-Stack, preparado para atuar em todas as etapas de um projeto — do backend ao frontend. Busco oportunidades para aplicar meus conhecimentos, colaborar em projetos reais e evoluir junto com a tecnologia. 
+
 - 🔭 Atuando como desenvolvedor Full-Stack
 - 📫 Contato: jmscontato18@hotmail.com
 
