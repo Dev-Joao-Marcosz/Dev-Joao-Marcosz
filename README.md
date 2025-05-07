@@ -4,9 +4,7 @@
 - 🔭 Atuando como desenvolvedor Full-Stack
 - 📫 Contato: jmscontato18@hotmail.com
 
-      ---
-
-### 🤖 Linguagens e Tecnologias
+    ### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
